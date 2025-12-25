@@ -1,23 +1,23 @@
-# Contributing to the Mission
+# 🤝 Göreve Katkı Sağlamak
 
-**Welcome, Engineer.**
+**Hoş geldin mühendis.**
 
-You are about to contribute to a project designed for the benefit of humanity. Excellence is not an option; it is the standard.
+İnsanlık yararına tasarlanmış bir projeye katkıda bulunmak üzeresin. Bu yolda mükemmeliyet bir seçenek değil, bir standarttır.
 
-## 🤝 How to Contribute
+## 📡 Nasıl Katkı Sağlanır?
 
-1.  **Fork the Repository:** Establish your own command post.
-2.  **Create a Branch:** `git checkout -b feature/MissionObjective`
-3.  **Execute Changes:** Implement your solution with precision.
-4.  **Verify:** Ensure all systems are operational.
-5.  **Commit:** `git commit -m "Operation: [Description]"`
-6.  **Push:** `git push origin feature/MissionObjective`
-7.  **Pull Request:** Signal for integration.
+1.  **Depoyu Çatallayın (Fork):** Kendi komuta merkezinizi oluşturun.
+2.  **Dal Oluşturun (Branch):** `git checkout -b ozellik/GorevHedefi`
+3.  **Değişiklikleri Uygulayın:** Çözümünüzü hassasiyetle kodlayın.
+4.  **Doğrulayın:** Tüm sistemlerin operasyonel olduğundan emin olun.
+5.  **Commit Atın:** `git commit -m "Operasyon: [Açıklama]"`
+6.  **Pushlayın:** `git push origin ozellik/GorevHedefi`
+7.  **Pull Request Açın:** Entegrasyon için sinyal gönderin.
 
-## 🛑 Rules of Engagement
+## 🛑 Etik Kurallar ve Standartlar
 
-*   **Code Quality:** Clean, commented, and efficient.
-*   **Documentation:** Update report templates if logic changes.
-*   **Respect:** This is a collaborative effort for the greater good.
+*   **Kod Kalitesi:** Temiz, yorumlanmış ve verimli kod.
+*   **Dokümantasyon:** Eğer mantık değişirse, rapor şablonlarını güncelleyin.
+*   **Saygı:** Bu, ortak bir iyilik için yapılan kolektif bir çabadır.
 
-*End of Briefing.*
+*Brifing Sonu.*
