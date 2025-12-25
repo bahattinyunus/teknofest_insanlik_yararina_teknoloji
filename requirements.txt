@@ -1,0 +1,14 @@
+# Teknofest Human Technology Project Dependencies
+
+# Core Data Processing
+# numpy>=1.21.0
+# pandas>=1.3.0
+
+# Visualization
+# matplotlib>=3.4.0
+
+# Hardware / Sensors (Example)
+# RPi.GPIO>=0.7.0  # If using Raspberry Pi
+
+# Testing
+# pytest>=6.2.0
